@@ -1,0 +1,6 @@
+@e5_HostAddress = http://localhost:5029
+
+GET {{e5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

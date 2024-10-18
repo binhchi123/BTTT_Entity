@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP .NET Core\\Entity\\e2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|d:\\asp .net core\\entity\\e2\\e2\\controllers\\monanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|solutionrelative:e2\\controllers\\monanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|d:\\asp .net core\\entity\\e2\\e2\\models\\viewmodels\\congthucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|solutionrelative:e2\\models\\viewmodels\\congthucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|d:\\asp .net core\\entity\\e2\\e2\\models\\viewmodels\\monanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|solutionrelative:e2\\models\\viewmodels\\monanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|d:\\asp .net core\\entity\\e2\\e2\\controllers\\congthucscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|solutionrelative:e2\\controllers\\congthucscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|d:\\asp .net core\\entity\\e2\\e2\\models\\monan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|solutionrelative:e2\\models\\monan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|d:\\asp .net core\\entity\\e2\\e2\\models\\loaimonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|solutionrelative:e2\\models\\loaimonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|d:\\asp .net core\\entity\\e2\\e2\\migrations\\20240926075250_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|solutionrelative:e2\\migrations\\20240926075250_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|d:\\asp .net core\\entity\\e2\\e2\\models\\congthuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|solutionrelative:e2\\models\\congthuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|d:\\asp .net core\\entity\\e2\\e2\\models\\nguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|solutionrelative:e2\\models\\nguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|d:\\asp .net core\\entity\\e2\\e2\\data\\cookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|solutionrelative:e2\\data\\cookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|d:\\asp .net core\\entity\\e2\\e2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|solutionrelative:e2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|d:\\asp .net core\\entity\\e2\\e2\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DEB6AF-DA3D-4345-91CA-2536B442E188}|e2\\e2.csproj|solutionrelative:e2\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CongThucsController.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Controllers\\CongThucsController.cs",
+              "RelativeDocumentMoniker": "e2\\Controllers\\CongThucsController.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Controllers\\CongThucsController.cs",
+              "RelativeToolTip": "e2\\Controllers\\CongThucsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:11:59.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonAn.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Models\\MonAn.cs",
+              "RelativeDocumentMoniker": "e2\\Models\\MonAn.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Models\\MonAn.cs",
+              "RelativeToolTip": "e2\\Models\\MonAn.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:16:38.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CongThuc.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Models\\CongThuc.cs",
+              "RelativeDocumentMoniker": "e2\\Models\\CongThuc.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Models\\CongThuc.cs",
+              "RelativeToolTip": "e2\\Models\\CongThuc.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:51:48.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonAnsController.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Controllers\\MonAnsController.cs",
+              "RelativeDocumentMoniker": "e2\\Controllers\\MonAnsController.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Controllers\\MonAnsController.cs",
+              "RelativeToolTip": "e2\\Controllers\\MonAnsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:16:49.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonAnViewModel.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Models\\ViewModels\\MonAnViewModel.cs",
+              "RelativeDocumentMoniker": "e2\\Models\\ViewModels\\MonAnViewModel.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Models\\ViewModels\\MonAnViewModel.cs",
+              "RelativeToolTip": "e2\\Models\\ViewModels\\MonAnViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:32:08.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CongThucViewModel.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Models\\ViewModels\\CongThucViewModel.cs",
+              "RelativeDocumentMoniker": "e2\\Models\\ViewModels\\CongThucViewModel.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Models\\ViewModels\\CongThucViewModel.cs",
+              "RelativeToolTip": "e2\\Models\\ViewModels\\CongThucViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:48:32.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NguyenLieu.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Models\\NguyenLieu.cs",
+              "RelativeDocumentMoniker": "e2\\Models\\NguyenLieu.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Models\\NguyenLieu.cs",
+              "RelativeToolTip": "e2\\Models\\NguyenLieu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:28:09.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoaiMonAn.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Models\\LoaiMonAn.cs",
+              "RelativeDocumentMoniker": "e2\\Models\\LoaiMonAn.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Models\\LoaiMonAn.cs",
+              "RelativeToolTip": "e2\\Models\\LoaiMonAn.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:09:28.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240926075250_v1.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Migrations\\20240926075250_v1.cs",
+              "RelativeDocumentMoniker": "e2\\Migrations\\20240926075250_v1.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Migrations\\20240926075250_v1.cs",
+              "RelativeToolTip": "e2\\Migrations\\20240926075250_v1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T02:47:17.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CookDbContext.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Data\\CookDbContext.cs",
+              "RelativeDocumentMoniker": "e2\\Data\\CookDbContext.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Data\\CookDbContext.cs",
+              "RelativeToolTip": "e2\\Data\\CookDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:15:29.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "e2\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ASP .NET Core\\Entity\\e2\\e2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "e2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T07:16:46.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Entity\\e2\\e2\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "e2\\GlobalUsing.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Entity\\e2\\e2\\GlobalUsing.cs",
+              "RelativeToolTip": "e2\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:10:18.249Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1268,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

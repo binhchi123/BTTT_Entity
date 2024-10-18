@@ -1,0 +1,75 @@
+[
+  {
+    "ContainingType": "e3.Controllers.VatTusController",
+    "Method": "GetVatTus",
+    "RelativePath": "api/VatTus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "e3.Controllers.VatTusController",
+    "Method": "GetVatTuHetHang",
+    "RelativePath": "api/VatTus/hethang",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "e3.Controllers.VatTusController",
+    "Method": "ThemPhieuNhap",
+    "RelativePath": "api/VatTus/themPhieuNhap",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "phieuNhapView",
+        "Type": "e3.Models.ViewModels.PhieuNhapViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "e3.Controllers.VatTusController",
+    "Method": "ThemPhieuXuat",
+    "RelativePath": "api/VatTus/themPhieuXuat",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "phieuXuatView",
+        "Type": "e3.Models.ViewModels.PhieuXuatViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "e3.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[e3.WeatherForecast, e3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

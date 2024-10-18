@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP .NET Core\\e5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|d:\\asp .net core\\e5\\e5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|solutionrelative:e5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|d:\\asp .net core\\e5\\e5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|solutionrelative:e5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|d:\\asp .net core\\e5\\e5\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|solutionrelative:e5\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|d:\\asp .net core\\e5\\e5\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|solutionrelative:e5\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|d:\\asp .net core\\e5\\e5\\models\\viewmodels\\duanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|solutionrelative:e5\\models\\viewmodels\\duanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|d:\\asp .net core\\e5\\e5\\controllers\\duanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|solutionrelative:e5\\controllers\\duanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|d:\\asp .net core\\e5\\e5\\models\\duan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|solutionrelative:e5\\models\\duan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|d:\\asp .net core\\e5\\e5\\models\\viewmodels\\nhanvienviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|solutionrelative:e5\\models\\viewmodels\\nhanvienviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|d:\\asp .net core\\e5\\e5\\models\\phancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|solutionrelative:e5\\models\\phancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|d:\\asp .net core\\e5\\e5\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EE5434-BF4F-4E4E-9071-B9AFD18DC7BE}|e5\\e5.csproj|solutionrelative:e5\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\e5\\e5\\Program.cs",
+              "RelativeDocumentMoniker": "e5\\Program.cs",
+              "ToolTip": "D:\\ASP .NET Core\\e5\\e5\\Program.cs",
+              "RelativeToolTip": "e5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:04:46.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\e5\\e5\\Data\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "e5\\Data\\EmployeeDbContext.cs",
+              "ToolTip": "D:\\ASP .NET Core\\e5\\e5\\Data\\EmployeeDbContext.cs",
+              "RelativeToolTip": "e5\\Data\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:03:35.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP .NET Core\\e5\\e5\\appsettings.json",
+              "RelativeDocumentMoniker": "e5\\appsettings.json",
+              "ToolTip": "D:\\ASP .NET Core\\e5\\e5\\appsettings.json",
+              "RelativeToolTip": "e5\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T04:05:49.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanViensController.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\e5\\e5\\Controllers\\NhanViensController.cs",
+              "RelativeDocumentMoniker": "e5\\Controllers\\NhanViensController.cs",
+              "ToolTip": "D:\\ASP .NET Core\\e5\\e5\\Controllers\\NhanViensController.cs",
+              "RelativeToolTip": "e5\\Controllers\\NhanViensController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwG4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:35:22.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DuAnsController.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\e5\\e5\\Controllers\\DuAnsController.cs",
+              "RelativeDocumentMoniker": "e5\\Controllers\\DuAnsController.cs",
+              "ToolTip": "D:\\ASP .NET Core\\e5\\e5\\Controllers\\DuAnsController.cs",
+              "RelativeToolTip": "e5\\Controllers\\DuAnsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:45:12.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DuAnViewModel.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\e5\\e5\\Models\\ViewModels\\DuAnViewModel.cs",
+              "RelativeDocumentMoniker": "e5\\Models\\ViewModels\\DuAnViewModel.cs",
+              "ToolTip": "D:\\ASP .NET Core\\e5\\e5\\Models\\ViewModels\\DuAnViewModel.cs",
+              "RelativeToolTip": "e5\\Models\\ViewModels\\DuAnViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:50:02.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NhanVienViewModel.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\e5\\e5\\Models\\ViewModels\\NhanVienViewModel.cs",
+              "RelativeDocumentMoniker": "e5\\Models\\ViewModels\\NhanVienViewModel.cs",
+              "ToolTip": "D:\\ASP .NET Core\\e5\\e5\\Models\\ViewModels\\NhanVienViewModel.cs",
+              "RelativeToolTip": "e5\\Models\\ViewModels\\NhanVienViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:02:33.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PhanCong.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\e5\\e5\\Models\\PhanCong.cs",
+              "RelativeDocumentMoniker": "e5\\Models\\PhanCong.cs",
+              "ToolTip": "D:\\ASP .NET Core\\e5\\e5\\Models\\PhanCong.cs",
+              "RelativeToolTip": "e5\\Models\\PhanCong.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T03:59:09.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DuAn.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\e5\\e5\\Models\\DuAn.cs",
+              "RelativeDocumentMoniker": "e5\\Models\\DuAn.cs",
+              "ToolTip": "D:\\ASP .NET Core\\e5\\e5\\Models\\DuAn.cs",
+              "RelativeToolTip": "e5\\Models\\DuAn.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T03:56:57.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\e5\\e5\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "e5\\Models\\NhanVien.cs",
+              "ToolTip": "D:\\ASP .NET Core\\e5\\e5\\Models\\NhanVien.cs",
+              "RelativeToolTip": "e5\\Models\\NhanVien.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T03:37:44.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

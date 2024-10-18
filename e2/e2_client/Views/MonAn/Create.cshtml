@@ -1,0 +1,60 @@
+﻿@model e2_client.Models.ViewModels.MonAnViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            <div class="py-3">
+                <label>Tên Món:</label>
+                <input asp-for="TenMon" />
+            </div>
+            <div class="py-3">
+                <label>Ghi Chú:</label>
+                <input asp-for="GhiChu" />
+            </div>
+            <div class="py-3">
+                <label>ID Loại Món:</label>
+                <input asp-for="LoaiMonAnId" />
+            </div>
+
+            <h3>Công Thức</h3>
+            <div id="congThucContainer">
+                <div class="congThucItem">
+                    <label class="py-3">ID Nguyên Liệu:</label>
+                    <input type="number" name="CongThucViewModels[0].NguyenLieuId" />
+                    <label class="py-3">Số Lượng:</label>
+                    <input type="number" name="CongThucViewModels[0].SoLuong" />
+                    <br />
+                    <label>Đơn Vị Tính:</label>
+                    <input type="text" name="CongThucViewModels[0].DonViTinh" />
+                </div>
+                <div class="congThucItem">
+                    <label class="py-3">ID Nguyên Liệu:</label>
+                    <input type="number" name="CongThucViewModels[0].NguyenLieuId" />
+                    <label class="py-3">Số Lượng:</label>
+                    <input type="number" name="CongThucViewModels[0].SoLuong" />
+                    <br />
+                    <label>Đơn Vị Tính:</label>
+                    <input type="text" name="CongThucViewModels[0].DonViTinh" />
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Tạo Món Ăn</button>
+
+            @if (!ViewData.ModelState.IsValid)
+            {
+                <div>@ViewData.ModelState.Values.First().Errors.First().ErrorMessage</div>
+            }
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

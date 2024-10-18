@@ -1,0 +1,163 @@
+[
+  {
+    "ContainingType": "e7.Controllers.NguyenLieusController",
+    "Method": "GetNguyenLieus",
+    "RelativePath": "api/NguyenLieus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[e7.Models.NguyenLieu, e7, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "e7.Controllers.NguyenLieusController",
+    "Method": "PostNguyenLieu",
+    "RelativePath": "api/NguyenLieus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nguyenLieuView",
+        "Type": "e7.Models.ViewModels.NguyenLieuViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "e7.Models.NguyenLieu",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "e7.Controllers.PhieuThusController",
+    "Method": "GetPhieuThus",
+    "RelativePath": "api/PhieuThus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[e7.Models.PhieuThu, e7, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "e7.Controllers.PhieuThusController",
+    "Method": "PostPhieuThu",
+    "RelativePath": "api/PhieuThus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "phieuThuView",
+        "Type": "e7.Models.ViewModels.PhieuThuViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "e7.Controllers.PhieuThusController",
+    "Method": "DeletePhieuThu",
+    "RelativePath": "api/PhieuThus/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "e7.Controllers.PhieuThusController",
+    "Method": "PostChiTietPhieuThu",
+    "RelativePath": "api/PhieuThus/ChiTiet/{PhieuThuId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PhieuThuId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "ChiTiet",
+        "Type": "System.Collections.Generic.List\u00601[[e7.Models.ChiTietPhieuThu, e7, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "e7.Controllers.PhieuThusController",
+    "Method": "GetPhieuThus",
+    "RelativePath": "api/PhieuThus/GetPhieuThuByDateRange",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "e7.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[e7.WeatherForecast, e7, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

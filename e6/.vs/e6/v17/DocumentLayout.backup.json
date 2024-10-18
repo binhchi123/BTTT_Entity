@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP .NET Core\\e6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B86455E7-6CE9-4614-8770-616D01857647}|e6\\e6.csproj|d:\\asp .net core\\e6\\e6\\controllers\\khoahocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86455E7-6CE9-4614-8770-616D01857647}|e6\\e6.csproj|solutionrelative:e6\\controllers\\khoahocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86455E7-6CE9-4614-8770-616D01857647}|e6\\e6.csproj|d:\\asp .net core\\e6\\e6\\controllers\\hocvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86455E7-6CE9-4614-8770-616D01857647}|e6\\e6.csproj|solutionrelative:e6\\controllers\\hocvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86455E7-6CE9-4614-8770-616D01857647}|e6\\e6.csproj|d:\\asp .net core\\e6\\e6\\models\\viewmodels\\ngayhocviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86455E7-6CE9-4614-8770-616D01857647}|e6\\e6.csproj|solutionrelative:e6\\models\\viewmodels\\ngayhocviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86455E7-6CE9-4614-8770-616D01857647}|e6\\e6.csproj|d:\\asp .net core\\e6\\e6\\models\\ngayhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86455E7-6CE9-4614-8770-616D01857647}|e6\\e6.csproj|solutionrelative:e6\\models\\ngayhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86455E7-6CE9-4614-8770-616D01857647}|e6\\e6.csproj|d:\\asp .net core\\e6\\e6\\models\\viewmodels\\hocvienviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86455E7-6CE9-4614-8770-616D01857647}|e6\\e6.csproj|solutionrelative:e6\\models\\viewmodels\\hocvienviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86455E7-6CE9-4614-8770-616D01857647}|e6\\e6.csproj|d:\\asp .net core\\e6\\e6\\models\\hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86455E7-6CE9-4614-8770-616D01857647}|e6\\e6.csproj|solutionrelative:e6\\models\\hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86455E7-6CE9-4614-8770-616D01857647}|e6\\e6.csproj|d:\\asp .net core\\e6\\e6\\models\\khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86455E7-6CE9-4614-8770-616D01857647}|e6\\e6.csproj|solutionrelative:e6\\models\\khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HocViensController.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\e6\\e6\\Controllers\\HocViensController.cs",
+              "RelativeDocumentMoniker": "e6\\Controllers\\HocViensController.cs",
+              "ToolTip": "D:\\ASP .NET Core\\e6\\e6\\Controllers\\HocViensController.cs",
+              "RelativeToolTip": "e6\\Controllers\\HocViensController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:56:49.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KhoaHocsController.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\e6\\e6\\Controllers\\KhoaHocsController.cs",
+              "RelativeDocumentMoniker": "e6\\Controllers\\KhoaHocsController.cs",
+              "ToolTip": "D:\\ASP .NET Core\\e6\\e6\\Controllers\\KhoaHocsController.cs",
+              "RelativeToolTip": "e6\\Controllers\\KhoaHocsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:55:49.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NgayHocViewModel.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\e6\\e6\\Models\\ViewModels\\NgayHocViewModel.cs",
+              "RelativeDocumentMoniker": "e6\\Models\\ViewModels\\NgayHocViewModel.cs",
+              "ToolTip": "D:\\ASP .NET Core\\e6\\e6\\Models\\ViewModels\\NgayHocViewModel.cs",
+              "RelativeToolTip": "e6\\Models\\ViewModels\\NgayHocViewModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:32:01.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HocVienViewModel.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\e6\\e6\\Models\\ViewModels\\HocVienViewModel.cs",
+              "RelativeDocumentMoniker": "e6\\Models\\ViewModels\\HocVienViewModel.cs",
+              "ToolTip": "D:\\ASP .NET Core\\e6\\e6\\Models\\ViewModels\\HocVienViewModel.cs",
+              "RelativeToolTip": "e6\\Models\\ViewModels\\HocVienViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:01:08.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HocVien.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\e6\\e6\\Models\\HocVien.cs",
+              "RelativeDocumentMoniker": "e6\\Models\\HocVien.cs",
+              "ToolTip": "D:\\ASP .NET Core\\e6\\e6\\Models\\HocVien.cs",
+              "RelativeToolTip": "e6\\Models\\HocVien.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswBYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:59:34.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NgayHoc.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\e6\\e6\\Models\\NgayHoc.cs",
+              "RelativeDocumentMoniker": "e6\\Models\\NgayHoc.cs",
+              "ToolTip": "D:\\ASP .NET Core\\e6\\e6\\Models\\NgayHoc.cs",
+              "RelativeToolTip": "e6\\Models\\NgayHoc.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:56:21.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KhoaHoc.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\e6\\e6\\Models\\KhoaHoc.cs",
+              "RelativeDocumentMoniker": "e6\\Models\\KhoaHoc.cs",
+              "ToolTip": "D:\\ASP .NET Core\\e6\\e6\\Models\\KhoaHoc.cs",
+              "RelativeToolTip": "e6\\Models\\KhoaHoc.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:53:32.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
